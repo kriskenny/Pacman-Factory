@@ -1,3 +1,9 @@
-# Pacman-Factory
-This is a project that allowed for creation of a "pacman factory". It reminds me of a chaotic screensaver. When the button "make one is pressed, a new pacman is added to the game div. Each are positioned at random with a random velocity.
-This initial product makes use of only one image within the Pacman image array. Goals for progression will to be add the alternate images to change image direction with direction changes, as well as rotate between open and closed mouth.
+# pacmen
+Factory for making pacmen
+You are given a starter.html code.
+When button "make one" is pressed you need to complete the code 
+to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
+You also need to make each pacman bounce off any wall it hits. 
+Start by getting at least one pacman positioned and viewable. 
+
+<img src="PacMan1.png">
